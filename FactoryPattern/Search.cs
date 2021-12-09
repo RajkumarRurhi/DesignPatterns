@@ -8,7 +8,7 @@ namespace FactoryPattern
     {
         public Search()
         {
-            Console.WriteLine("Search constructor invoked");
+            Console.WriteLine("Search page created.");
         }
     }
 }

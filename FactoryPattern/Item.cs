@@ -8,7 +8,7 @@ namespace FactoryPattern
     {
         public Item()
         {
-            Console.WriteLine("Item constructor invoked");
+            Console.WriteLine("Item page created.");
         }
     }
 }

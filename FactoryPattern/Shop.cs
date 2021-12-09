@@ -8,9 +8,9 @@ namespace FactoryPattern
     {
         public override void createWebSite()
         {
-            this.Pages.Add(new ShoppingCart());
-            this.Pages.Add(new Item());
-            this.Pages.Add(new Search());
+            this.pages.Add(new ShoppingCart());
+            this.pages.Add(new Item());
+            this.pages.Add(new Search());
         }
     }
 }

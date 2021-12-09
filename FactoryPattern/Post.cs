@@ -8,7 +8,7 @@ namespace FactoryPattern
     {
         public Post()
         {
-            Console.WriteLine("Post constructor invoked");
+            Console.WriteLine("Post page created.");
         }
     }
 }

@@ -8,7 +8,7 @@ namespace FactoryPattern
     {
         public ShoppingCart()
         {
-            Console.WriteLine("Shopping Cart constructor invoked");
+            Console.WriteLine("Shopping Cart page created.");
         }
     }
 }

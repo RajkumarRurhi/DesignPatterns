@@ -8,7 +8,7 @@ namespace FactoryPattern
     {
         public AboutUs()
         {
-            Console.WriteLine("AboutUs constructor invoked");
+            Console.WriteLine("About us page created.");
         }
     }
 }

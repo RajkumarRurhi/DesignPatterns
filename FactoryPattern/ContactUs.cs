@@ -8,7 +8,7 @@ namespace FactoryPattern
     {
         public ContactUs()
         {
-            Console.WriteLine("Contact Us constructor invoked");
+            Console.WriteLine("Contact us page created.");
         }
     }
 }

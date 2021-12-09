@@ -6,9 +6,5 @@ namespace FactoryPattern
 {
     public abstract class Page
     {
-        public Page()
-        {
-            Console.WriteLine("Page constructor invoked");
-        }
     }
 }
