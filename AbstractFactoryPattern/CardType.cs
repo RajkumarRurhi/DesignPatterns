@@ -1,0 +1,5 @@
+﻿enum CardType
+{
+    PLATINUM,
+    GOLD
+}
